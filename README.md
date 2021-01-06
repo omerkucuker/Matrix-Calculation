@@ -12,8 +12,8 @@ void *sum() fonksiyonu oluşturulan her bir matrisin elemanlarını toplar. Term
 
 main() fonksiyonu sonsuz döngüde çalışır. Ctrl+Z, string veya 50 den büyük sayı girildiğinde program sonlanır. 
  
-![SS1](https://raw.githubusercontent.com/omerkucuker/Matrix-Calculation/main/ss5.PNG)
-![SS2](https://raw.githubusercontent.com/omerkucuker/Matrix-Calculation/main/ss1.PNG)
+![SS5](https://raw.githubusercontent.com/omerkucuker/Matrix-Calculation/main/ss5.PNG)
+![SS1](https://raw.githubusercontent.com/omerkucuker/Matrix-Calculation/main/ss1.PNG)
 ![SS3](https://raw.githubusercontent.com/omerkucuker/Matrix-Calculation/main/ss3.PNG)
 ![SS4](https://raw.githubusercontent.com/omerkucuker/Matrix-Calculation/main/ss4.PNG)
-![SS5](https://raw.githubusercontent.com/omerkucuker/Matrix-Calculation/main/ss2.PNG)
+![SS2](https://raw.githubusercontent.com/omerkucuker/Matrix-Calculation/main/ss2.PNG)
